@@ -1,4 +1,4 @@
-# SPIFFS 生成器 / SPIFFS Generator
+# ESP32 SPIFFS 生成器 / ESP32 SPIFFS Generator
 
 ## 项目简介 / Project Introduction
 
